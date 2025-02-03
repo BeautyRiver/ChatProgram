@@ -1,0 +1,16 @@
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\bin\Debug\net8.0-windows\ChatClient.exe
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\bin\Debug\net8.0-windows\ChatClient.deps.json
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\bin\Debug\net8.0-windows\ChatClient.runtimeconfig.json
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\bin\Debug\net8.0-windows\ChatClient.dll
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\bin\Debug\net8.0-windows\ChatClient.pdb
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.Form1.resources
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfo.cs
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.dll
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\refint\ChatClient.dll
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.pdb
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ChatClient.genruntimeconfig.cache
+C:\1.GitHub_MK\ChatProgram\ChatClient\ChatClient\obj\Debug\net8.0-windows\ref\ChatClient.dll
