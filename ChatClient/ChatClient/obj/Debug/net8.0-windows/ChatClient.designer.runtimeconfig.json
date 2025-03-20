@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\MinKang\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\MinKang\\.nuget\\packages",
+      "C:\\Users\\ds5th\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ds5th\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
